@@ -1,6 +1,6 @@
 # 🚀 NorthPeak Digital
 
-![NorthPeak Digital Banner](images/north pic.jpg)
+![NorthPeak Digital Banner](images/north-pic.jpg)
 
 A modern, responsive one-page agency website created for **NorthPeak Digital**, a fictional digital growth agency.
 

@@ -312,10 +312,10 @@ Google Fonts
 
 ## Mobile Lighthouse Report
 
-![Mobile Lighthouse Report](images/lighthouse photo1.png)
+![Mobile Lighthouse Report](images/lighthouse-photo1.png)
 
 
 
 ## Desktop Lighthouse Report
 
-![Desktop Lighthouse Report](images/lighthouse photo2.png)"# north-pek" 
+![Desktop Lighthouse Report](images/lighthouse-photo2.png)"# north-pek" 

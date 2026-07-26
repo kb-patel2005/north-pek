@@ -1,6 +1,6 @@
 # 🚀 NorthPeak Digital
 
-![NorthPeak Digital Banner](screenshots/banner.png)
+![NorthPeak Digital Banner](images/north pic.jpg)
 
 A modern, responsive one-page agency website created for **NorthPeak Digital**, a fictional digital growth agency.
 
@@ -49,21 +49,18 @@ The goal of this project is to create a realistic agency website that demonstrat
 # 🌐 Live Website
 
 Add deployed URL:
-
-
+https://n-digitaldemo.netlify.app/
 
 ---
 
 # 📂 Repository
 
 GitHub Repository:
-
-
+https://github.com/kb-patel2005/north-pek
 
 ---
 
 # ✨ Features
-
 
 ## 🏠 Hero Section
 
@@ -315,10 +312,10 @@ Google Fonts
 
 ## Mobile Lighthouse Report
 
-![Mobile Lighthouse Report](screenshots/lighthouse photo1.png)
+![Mobile Lighthouse Report](images/lighthouse photo1.png)
 
 
 
 ## Desktop Lighthouse Report
 
-![Desktop Lighthouse Report](screenshots/lighthouse photo2.png)"# north-pek" 
+![Desktop Lighthouse Report](images/lighthouse photo2.png)"# north-pek" 
